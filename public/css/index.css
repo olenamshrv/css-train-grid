@@ -27,12 +27,12 @@
 
 .task5 {
   display: grid;
-  justify-content: start;
+  justify-content: flex-start;
 }
 
 .task6 {
   display: grid;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .task7 {
@@ -62,12 +62,12 @@
 
 .task12 {
   display: grid;
-  align-content: start;
+  align-content: flex-start;
 }
 
 .task13 {
   display: grid;
-  align-content: end;
+  align-content: flex-end;
 }
 
 .task14 {
@@ -97,18 +97,18 @@
 
 .task19 {
   display: grid;
-  justify-content: start;
+  justify-content: flex-start;
   align-content: center;
 }
 
 .task20 {
   display: grid;
-  justify-items: start;
+  justify-items: flex-start;
 }
 
 .task21 {
   display: grid;
-  justify-items: end;
+  justify-items: flex-end;
 }
 
 .task22 {
@@ -123,12 +123,12 @@
 
 .task24 {
   display: grid;
-  align-items: start;
+  align-items: flex-start;
 }
 
 .task25 {
   display: grid;
-  align-items: end;
+  align-items: flex-end;
 }
 
 .task26 {
@@ -156,14 +156,14 @@
   display: grid;
 }
 .task30 .item1 {
-  justify-self: start;
+  justify-self: flex-start;
 }
 
 .task31 {
   display: grid;
 }
 .task31 .item2 {
-  justify-self: end;
+  justify-self: flex-end;
 }
 
 .task32 {
@@ -184,14 +184,14 @@
   display: grid;
 }
 .task34 .item1 {
-  align-self: start;
+  align-self: flex-start;
 }
 
 .task35 {
   display: grid;
 }
 .task35 .item2 {
-  align-self: end;
+  align-self: flex-end;
 }
 
 .task36 {
@@ -212,7 +212,7 @@
   display: grid;
 }
 .task38 .item5 {
-  justify-self: start;
+  justify-self: flex-start;
   align-self: center;
 }
 
